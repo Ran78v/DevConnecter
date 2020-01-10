@@ -8,7 +8,7 @@
     "server": "nodemon server"
   },
   "author": "Rano Zulfikar",
-  "license": "MIT",
+  "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "config": "^3.2.4",
@@ -16,7 +16,8 @@
     "express-validator": "^6.3.1",
     "gravatar": "^1.8.0",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^4.13.20",
+    "mongodb": "^3.4.1",
+    "mongoose": "^5.8.5",
     "request": "^2.88.0"
   },
   "devDependencies": {
